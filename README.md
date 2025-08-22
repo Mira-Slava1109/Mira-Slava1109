@@ -1,8 +1,7 @@
 ## Hi there 👋
-![Ваше фото](me.jpg)
+
 <h1 align="center">Привіт 👋, я Мирослава</h1>
 <h3 align="center">Front-end Developer з України 🇺🇦</h3>
-
 
 ---
 
