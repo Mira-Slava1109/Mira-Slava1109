@@ -1,6 +1,8 @@
 ## Hi there 👋
-<h1 align="center">Привіт 👋, я Мирослава</h1>
-<h3 align="center">Front-end Developer з України 🇺🇦</h3>
+<p align="center" style="background-color:#0B0045; color:white; padding:20px; border-radius:10px;">
+  👋 Привіт! Я Mira-Slava, Frontend Developer
+</p>
+
 
 ---
 
