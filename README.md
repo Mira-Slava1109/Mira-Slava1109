@@ -8,7 +8,12 @@
 - 💻 Працюю з **HTML / SCSS / JavaScript (ES6+)**
 - ⚛️ Цікавлюсь **React**, адаптивною версткою та UI/UX
 - 🚀 Хочу розвиватися у сфері **Front-end розробки**
-- 📫 Як зв’язатися: **miroslavadenishyk83@gmail.com**, **denischuk83@ukr.net**
+## 📫 Контакти
+- Email: **miroslavadenishyk83@gmail.com**, **denischuk83@ukr.net**
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/DiMirosya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+
 
 ---
 
@@ -36,5 +41,5 @@
 
 ### 📫 Контакти
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/username)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/username)  
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/DiMirosya)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
