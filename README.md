@@ -8,13 +8,13 @@
 - 💻 Працюю з **HTML / SCSS / JavaScript (ES6+)**
 - ⚛️ Цікавлюсь **React**, адаптивною версткою та UI/UX
 - 🚀 Хочу розвиватися у сфері **Front-end розробки**
-- 📫 Як зв’язатися: **youremail@gmail.com**
+- 📫 Як зв’язатися: **miroslavadenishyk83@gmail.com**, **denischuk83@ukr.net**
 
 ---
 
 ### 🔧 Технології та інструменти
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,git,github,figma" />
 </p>
 
 ---
