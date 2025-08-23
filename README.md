@@ -1,7 +1,3 @@
-<div style="background-color:#f0f8ff; padding:20px; border-radius:10px;">
-  <h3>👩‍💻 Привіт! Я Myroslava</h3>
-  <p>Front-end розробниця, яка обожнює SCSS, Swiper.js і чисту архітектуру</p>
-</div>
 
 ## Hi there 👋
 
