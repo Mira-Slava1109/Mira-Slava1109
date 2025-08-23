@@ -40,7 +40,7 @@
 ### 🏠 [homevservices – демо](https://homeservices-sage.vercel.app) | [GitHub](https://github.com/Mira-Slava1109/projects/tree/main/homevservices)
 Лендінг для сервісу домашніх послуг. Чистий SCSS, гнучка сітка, анімації при скролі.
 
-###  🐾 [wildkingdom – демо](https://wildkingdom.github.io) | [GitHub](https://github.com/Mira-Slava1109/projects/tree/main/wildkingdom)
+###  🐾 [wildkingdom – демо](https://thewildkingdom.vercel.app) | [GitHub](https://github.com/Mira-Slava1109/projects/tree/main/wildkingdom)
  сайт з товарами для домашніх тварин та блогом по догляду
 
 ---
