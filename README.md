@@ -37,7 +37,10 @@
 
 ## 📬 Контакти
 
-## 📬 Контакти
+- 📧 Email: myroslava.denischuk@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/myroslava](https://www.linkedin.com/in/myroslava-denyschuk-4571b72a1/)  
+- ✈️ Telegram: [@твій_нікнейм](https://t.me/DiMirosya)
+
 
 - 📧 Email: myroslava.denischuk@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/myroslava](https://www.linkedin.com/in/myroslava-denyschuk-4571b72a1/)  
