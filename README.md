@@ -26,8 +26,8 @@
 ---
 
 ### 🧩 Мої проекти  
-- <a href="https://github.com/Mira-Slava1109/shop.co" target="_blank">🛒 Інтернет-магазин</a> – e-commerce сайт з фільтрами, корзиною та адаптивом  
-- <a href="https://github.com/Mira-Slava1109/TheWildKingdom" target="_blank">🐾 TheWildKingdom</a> – сайт з товарами для домашніх тварин та блогом по догляду
+- <a href="https://mira-slava1109.github.io/projects/shop.co" target="_blank">🛒 Інтернет-магазин</a> – e-commerce сайт з фільтрами, корзиною та адаптивом  
+- <a href="https://mira-slava1109.github.io/projects/wildkingdom" target="_blank">🐾 TheWildKingdom</a> – сайт з товарами для домашніх тварин та блогом по догляду
 
 
 ---
