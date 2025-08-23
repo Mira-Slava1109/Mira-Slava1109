@@ -1,3 +1,45 @@
+# 👩‍💻 Myroslava Denischuk
+
+Front-end Developer • Україна  
+Створюю адаптивні, масштабовані інтерфейси з SCSS, JavaScript та Swiper.js
+
+---
+
+## 🛠️ Стек технологій
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Swiper.js](https://img.shields.io/badge/-Swiper.js-6332F6?style=flat&logo=swiper&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 💼 Проєкти
+
+### 🛒 [shop.co – демо](https://shopco-zeta.vercel.app) | [GitHub](https://github.com/Mira-Slava1109/projects/tree/main/shop.co)
+> Адаптивний e-commerce сайт з динамічними картками товарів, Swiper-слайдерами та кастомною логікою для зображень
+
+###  🐾 [wildkingdom – демо](https://thewildkingdom.vercel.app) | [GitHub](https://github.com/Mira-Slava1109/projects/tree/main/wildkingdom)
+> Сайт про домашніх улюбленців з інтерактивними секціями, анімованими переходами та адаптивною версткою
+
+### 🏠 [homevservices – демо](https://homeservices-sage.vercel.app) | [GitHub](https://github.com/Mira-Slava1109/projects/tree/main/homeservices)
+> Сервісна платформа з чіткою структурою, кастомними компонентами та логікою для форм
+
+---
+
+## 📬 Контакти
+
+- 📧 Email: myroslava.denischuk@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/myroslava](https://linkedin.com/in/myroslava)  
+
+---
+
+## 🧠 Про мене
+
+Методична, уважна до деталей, люблю розбиратися в складних багах і створювати чисту, масштабовану архітектуру.  
+Працюю з SCSS, JS, DOM, Figma, і завжди прагну зробити код не просто робочим, а елегантним.
+
 
 ## Hi there 👋
 
