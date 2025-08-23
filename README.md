@@ -37,9 +37,10 @@
 
 ## 📬 Контакти
 
-- 📧 Email: myroslava.denischuk@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/myroslava](https://www.linkedin.com/in/myroslava-denyschuk-4571b72a1/) 
--[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@DiMirosya)
+[![Email](https://img.shields.io/badge/Email-myroslava.denischuk@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:myroslava.denischuk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/myroslava-denyschuk-4571b72a1/)
+[![Telegram](https://img.shields.io/badge/Telegram-@DiMirosya-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@DiMirosya)
+
 
 ---
 
