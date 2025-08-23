@@ -34,7 +34,7 @@
 
 ## 💼 Мої проекти
 
-### 🛒 [shop.co – демо](https://shopco-demo.vercel.app) | [GitHub](https://github.com/Mira-Slava1109/projects/tree/main/shop.co)
+### 🛒 [shop.co – демо](https://shop-co.vercel.app) | [GitHub](https://github.com/Mira-Slava1109/projects/tree/main/shop.co)
 Інтернет-магазин з адаптивною версткою, Swiper-слайдерами та інтерактивними картками товарів.
 
 ### 🏠 [homevservices – демо](https://homevservices.netlify.app) | [GitHub](https://github.com/Mira-Slava1109/projects/tree/main/homevservices)
