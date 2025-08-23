@@ -40,6 +40,9 @@
 - 📧 Email: myroslava.denischuk@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/myroslava](https://www.linkedin.com/in/myroslava-denyschuk-4571b72a1/)  
 - ✈️ Telegram: [@DiMirosya](https://t.me/DiMirosya)
+- <a href="https://t.me/DiMirosya">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="25"/>
+</a>
 
 
 ---
