@@ -33,7 +33,7 @@ Front-end Developer • Україна
 ## 📬 Контакти
 
 - 📧 Email: myroslava.denischuk@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/myroslava](https://linkedin.com/in/myroslava)  
+- 💼 LinkedIn: [linkedin.com/in/myroslava](https://www.linkedin.com/in/myroslava-denyschuk-4571b72a1/) 
 
 ---
 
