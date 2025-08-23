@@ -37,7 +37,7 @@
 ### 🛒 [shop.co – демо](https://shopco-zeta.vercel.app) | [GitHub](https://github.com/Mira-Slava1109/projects/tree/main/shop.co)
 Інтернет-магазин з адаптивною версткою, Swiper-слайдерами та інтерактивними картками товарів.
 
-### 🏠 [homevservices – демо](https://homeservices-sage.vercel.app) | [GitHub](https://github.com/Mira-Slava1109/projects/tree/main/homevservices)
+### 🏠 [homevservices – демо](https://homeservices-sage.vercel.app) | [GitHub](https://github.com/Mira-Slava1109/projects/tree/main/homeservices)
 Лендінг для сервісу домашніх послуг. Чистий SCSS, гнучка сітка, анімації при скролі.
 
 ###  🐾 [wildkingdom – демо](https://thewildkingdom.vercel.app) | [GitHub](https://github.com/Mira-Slava1109/projects/tree/main/wildkingdom)
