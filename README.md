@@ -46,26 +46,23 @@
   </span>
 </p>
 
+<h3>📇 Контакти</h3>
+
 <p>
-  <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="20" style="vertical-align: middle;"/>
-  <span style="vertical-align: middle; margin-left: 6px;">
-    <strong>Email:</strong> <a href="mailto:myroslava.denischuk@gmail.com">myroslava.denischuk@gmail.com</a>
-  </span>
+  <img src="https://img.icons8.com/color/24/gmail--v1.png" alt="Gmail" style="position: relative; top: 4px;" />
+  <strong>Email:</strong> <a href="mailto:myroslava.denischuk@gmail.com">myroslava.denischuk@gmail.com</a>
 </p>
 
 <p>
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20" style="vertical-align: middle;"/>
-  <span style="vertical-align: middle; margin-left: 6px;">
-    <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/myroslava">linkedin.com/in/myroslava</a>
-  </span>
+  <img src="https://img.icons8.com/color/24/linkedin.png" alt="LinkedIn" style="position: relative; top: 4px;" />
+  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/myroslava">linkedin.com/in/myroslava</a>
 </p>
 
 <p>
-  <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="20" style="vertical-align: middle;"/>
-  <span style="vertical-align: middle; margin-left: 6px;">
-    <strong>Telegram:</strong> <a href="https://t.me/DiMirosya">@DiMirosya</a>
-  </span>
+  <img src="https://img.icons8.com/color/24/telegram-app.png" alt="Telegram" style="position: relative; top: 4px;" />
+  <strong>Telegram:</strong> <a href="https://t.me/DiMirosya">@DiMirosya</a>
 </p>
+
  
 
 
