@@ -33,13 +33,6 @@
 ### 🏠 [homevservices – демо](https://homeservices-sage.vercel.app) | [GitHub](https://github.com/Mira-Slava1109/projects/tree/main/homeservices)
 > Сервісна платформа з чіткою структурою, кастомними компонентами та логікою для форм
 
----
-
-## 📬 Контакти
-
-- 📧 Email: myroslava.denischuk@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/myroslava](https://www.linkedin.com/in/myroslava-denyschuk-4571b72a1/)  
-- ✈️ Telegram: [@DiMirosya](https://t.me/DiMirosya)>
 
 
 ---
