@@ -49,7 +49,7 @@
 <h3>📇 Контакти</h3>
 
 <p>
-  <img src="https://img.icons8.com/color/24/gmail--v1.png" alt="Gmail" style="position: relative; top: 10px;" />
+  <img src="https://img.icons8.com/color/24/gmail--v1.png" alt="Gmail" style="position: relative; top: 70px;" />
   <strong>Email:</strong> <a href="mailto:myroslava.denischuk@gmail.com">myroslava.denischuk@gmail.com</a>
 </p>
 
