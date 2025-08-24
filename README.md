@@ -58,9 +58,11 @@
   <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/myroslava">linkedin.com/in/myroslava</a>
 </p>
 
-<p>
-  <img src="https://img.icons8.com/color/24/telegram-app.png" alt="Telegram" style="position: relative; top: 10px;" />
-  <strong>Telegram:</strong> <a href="https://t.me/DiMirosya">@DiMirosya</a>
+ <p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" style="vertical-align: bottom;"/>
+  <span style="vertical-align: bottom; margin-left: 6px;">
+    <strong>Telegram:</strong> <a href="https://t.me/DiMirosya">@DiMirosya</a>
+  </span>
 </p>
 
  
